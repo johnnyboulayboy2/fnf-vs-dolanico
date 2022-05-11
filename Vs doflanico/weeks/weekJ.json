@@ -1,0 +1,53 @@
+{
+	"storyName": "Bientôt",
+	"hideFreeplay": true,
+	"difficulties": "hard",
+	"weekBackground": "paysage",
+	"weekBefore": "WeekD",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"???",
+			"Doflanico",
+			[
+				26,
+				213,
+				253
+			]
+		],
+		[
+			"???",
+			"Doflanico",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"???",
+			"Doflanico",
+			[
+				106,
+				213,
+				253
+			]
+		],
+		[
+			"???",
+			"Doflanico",
+			[
+				126,
+				213,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 2"
+}

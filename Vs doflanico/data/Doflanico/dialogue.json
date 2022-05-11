@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.11,
+			"portrait": "rien",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "BF et GF etais dans un park jusqua se quil rencontre"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "bip"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "enfin, sa fait une trotte pas vrais"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "                           Yeah"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "rien",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "soudin il voient"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Bip"
+		},
+		{
+			"speed": 0.11,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BIp"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BIP"
+		},
+		{
+			"speed": 0.055,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "OMG CEST DOFLANICO"
+		}
+	]
+}
