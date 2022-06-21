@@ -1,0 +1,26 @@
+{
+	"storyName": "Secret song",
+	"hideFreeplay": false,
+	"difficulties": "special,baka",
+	"weekBackground": "paysage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"gf",
+		"bf2"
+	],
+	"songs": [
+		[
+			"Bonus",
+			"Doflanico",
+			[
+				255,
+				255,
+				55
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week2"
+}

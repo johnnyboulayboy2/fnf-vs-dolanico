@@ -1,0 +1,53 @@
+{
+	"storyName": "Vs Doflanico",
+	"hideFreeplay": false,
+	"difficulties": "hard",
+	"weekBackground": "paysage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf3",
+		"gf"
+	],
+	"songs": [
+		[
+			"Rencontre",
+			"Doflanico",
+			[
+				26,
+				213,
+				253
+			]
+		],
+		[
+			"Doflanico",
+			"Doflanico",
+			[
+				66,
+				213,
+				253
+			]
+		],
+		[
+			"Inverce",
+			"Doflanico",
+			[
+				106,
+				213,
+				253
+			]
+		],
+		[
+			"Fin",
+			"Doflanico",
+			[
+				126,
+				213,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekD"
+}
